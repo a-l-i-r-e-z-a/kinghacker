@@ -249,8 +249,7 @@ Our channels
 Realm Commands:
 
 !creategroup [Name]
-Create a group
-
+Create 
 !createrealm [Name]
 Create a realm
 
